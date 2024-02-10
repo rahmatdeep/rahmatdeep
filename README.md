@@ -16,7 +16,9 @@
 
 **Validation Libraries:** Zod
 
+**ORM:** Prisma
 
+**Serverless:** Cloudflare Workers using Hono
 
 
 
