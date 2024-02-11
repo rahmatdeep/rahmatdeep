@@ -10,15 +10,15 @@
 
 **Client:** React, Recoil, Tailwind, Bootstrap
 
-**Server:** Node, Express
+**Server:** Node, Express, Hono
 
-**Databses:** MongoDB(Mongoose), PostgreSQL
+**Databses:** MongoDB, PostgreSQL
 
 **Validation Libraries:** Zod
 
 **ORM:** Prisma
 
-**Serverless:** Cloudflare Workers using Hono
+**Serverless:** Cloudflare Workers
 
 
 
