@@ -8,18 +8,15 @@
 
 ### Techstack
 
-**Client:** React, Recoil, Tailwind, Bootstrap
+**Frontend:** React, Nextjs, Tailwind
 
-**Server:** Node, Express, Hono
+**Backend:** Node, Express, Hono, Cloudflare Workers
 
-**Databses:** MongoDB, PostgreSQL
-
-**Validation Libraries:** Zod
+**Databases:** MongoDB, PostgreSQL
 
 **ORM:** Prisma
 
-**Serverless:** Cloudflare Workers
-
+**Devtools:** Turborepo, Docker
 
 
 <!---
