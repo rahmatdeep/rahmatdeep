@@ -8,7 +8,7 @@
 ## Techstack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatdeep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 **Languages**<br>
-[![My Languages](https://skillicons.dev/icons?i=js,ts,go,python)](https://skillicons.dev)<br>
+[![My Languages](https://skillicons.dev/icons?i=js,ts,python)](https://skillicons.dev)<br>
 **Frontend**<br>
 [![My Languages](https://skillicons.dev/icons?i=react,next,tailwind)](https://skillicons.dev)<br>
 **Backend**<br>
