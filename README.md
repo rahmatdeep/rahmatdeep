@@ -2,7 +2,7 @@
 # Rahmatdeep Singh Mavi
 - 👋 Hi, I’m @rahmatdeep
 - 💼 I’m interested in remote work/freelance projects
-- 🌱 I’m currently learning Rust [[](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- 🌱 I’m currently learning Rust [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - 💞️ I’m looking to collaborate on any full stack projects
 
 ## Techstack
